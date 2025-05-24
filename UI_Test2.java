@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.concurrent.Flow.Subscriber;
-// tes
 
 public class UI_Test2 {
     public static void main(String[] args) {
