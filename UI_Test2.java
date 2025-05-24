@@ -361,7 +361,7 @@ class Creator{
             System.out.println("Channel : " + getChannelName());
             System.out.println("Back [0]");
             int input = sc.nextInt();
-            creatorHome();
+            creatorHome(); 
         }
     }
 }
